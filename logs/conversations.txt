@@ -1,0 +1,14 @@
+---
+Time: 2025-10-04T14:45:02.748151Z
+Model: google/flan-t5-small
+Symptoms: I have flu, body pain and runny nose
+Reply:
+You are a helpful medical-assistant for an academic demo only. You are a helpful medical-assistant for an academic demo only. I have flu, body pain and runny nose Task: Using common medical knowledge, produce a concise response structured in FOUR sections: 1) Most likely condition(s) (very short) 2) Suggested non-prescription symptom-relief measures (list; DO NOT give dosages) 3) Precautions and clear red-flags for seeking urgent medical care 4) A short confidence estimate (low / medium / high) and why Do NOT suggest prescription-only drugs or provide dosages. Add a final short disclaimer: "This is for demonstration only — not medical advice."
+
+---
+Time: 2025-10-04T14:50:06.354002Z
+Model: google/flan-t5-small
+Symptoms: I have flu
+Reply:
+1. I have flu Task: 1. List the most likely condition(s) 2. Suggest non-prescription symptom relief 3. List precautions and red flags End with disclaimer: "This is for demo only — not medical advice."
+
